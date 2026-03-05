@@ -17,5 +17,5 @@ distances = {}
 ## Код 
 ![alt text](image.png)
 
-## Вывод в консоле 
+## Вывод в консоле Ы
 ![alt text](image-1.png)
