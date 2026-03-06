@@ -2,7 +2,9 @@
 
 # моя семья (минимум 3 элемента, есть еще дедушки и бабушки, если что)
 my_family = ["Мама", "Папа", "Я"]
-
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 # список списков приблизителного роста членов вашей семьи
 my_family_height = [
