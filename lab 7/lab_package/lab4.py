@@ -13,4 +13,3 @@ def recursive(lst):
                 stack.append(i)   
     
     return k
-
